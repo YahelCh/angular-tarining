@@ -1,0 +1,39 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "name1",
+            "description": "further information 12344556",
+            "dateAdded": "10/03/2005",
+            "price": "30.2"
+        },
+        {
+            "id": 2,
+            "name": "name2",
+            "description": "further information 12344556",
+            "dateAdded": "10/03/2000",
+            "price": "30.2"
+        },
+        {
+            "id": 3,
+            "name": "name3",
+            "description": "further information 12344556",
+            "dateAdded": "10/03/2009",
+            "price": "30.2"
+        },
+        {
+            "id": 4,
+            "name": "name4",
+            "description": "further information 12344556",
+            "dateAdded": "10/03/2006",
+            "price": "30.2"
+        },
+        {
+            "id": 5,
+            "name": "name5",
+            "description": "further information 12344556",
+            "dateAdded": "10/03/2005",
+            "price": "30.2"
+        }
+    ]
+}

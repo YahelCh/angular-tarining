@@ -1,0 +1,12 @@
+<div>
+    <span>this is all items component</span>
+    <div class="row">
+     
+        <div class="col-md-3 item-card" *ngFor="let i of items">
+            <p>name: {{i.name}}</p>
+            <p>description: {{i.description}}</p>
+            <p>price: {{i.price|currency: 'ILS'}}</p>
+            <p>date added: {{i.dateAdded}}</p>
+        </div>
+    </div>
+</div>
